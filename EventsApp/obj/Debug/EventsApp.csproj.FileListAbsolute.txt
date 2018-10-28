@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\EventsApp\EventsApp\bin\Debug\EventsApp.exe.config
+C:\Users\User\source\repos\EventsApp\EventsApp\bin\Debug\EventsApp.exe
+C:\Users\User\source\repos\EventsApp\EventsApp\bin\Debug\EventsApp.pdb
+C:\Users\User\source\repos\EventsApp\EventsApp\obj\Debug\EventsApp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\EventsApp\EventsApp\obj\Debug\EventsApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EventsApp\EventsApp\obj\Debug\EventsApp.exe
+C:\Users\User\source\repos\EventsApp\EventsApp\obj\Debug\EventsApp.pdb
